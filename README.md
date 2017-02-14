@@ -2,11 +2,7 @@
 
 ### Overview
 
-This is a SPA (Single Page App) to help manage the logistics of running a neighborhood bookclub.
-
-Main functionality includes a member profile, news posts, description of events, and a book list of chosen books the club has read.
-
-It is designed to be socially interactive allowing members rights to create and read posts.
+This is a single page app to help manage the logistics of running a neighborhood book club. The members take turns to host the book club events. The main functionality includes registering to become a member, adding events, books, rsvp to events, rating books and posting news.
 
 ### Demo
 [Click to view Demo](https://goto-forum.herokuapp.com/)

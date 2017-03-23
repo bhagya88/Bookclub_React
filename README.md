@@ -5,7 +5,7 @@
 This is a single page app to help manage the logistics of running a neighborhood book club. The members take turns to host the book club events. The main functionality includes registering to become a member, adding events, books, rsvp to events, rating books and posting news.
 
 ### Demo
-[Click to view Demo](https://goto-forum.herokuapp.com/)
+[Click to view Demo](https://bookclub-novella.herokuapp.com/bookclub.html)
 
 ### Technologies used
 
